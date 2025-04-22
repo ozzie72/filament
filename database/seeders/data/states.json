@@ -1,0 +1,30 @@
+[
+    {
+      "data": [
+{"id":"1","name":"Amazonas","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"2","name":"Anzoátegui","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"3","name":"Apure","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"4","name":"Aragua","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"5","name":"Barinas","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"6","name":"Bolívar","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"7","name":"Carabobo","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"8","name":"Cojedes","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"9","name":"Delta Amacuro","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"10","name":"Falcón","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"11","name":"Guárico","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"12","name":"Lara","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"13","name":"Mérida","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"14","name":"Miranda","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"15","name":"Monagas","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"16","name":"Nueva Esparta","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"17","name":"Portuguesa","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"18","name":"Sucre","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"19","name":"Táchira","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"20","name":"Trujillo","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"21","name":"Vargas","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"22","name":"Yaracuy","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"23","name":"Zulia","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"},
+{"id":"24","name":"Distrito Capital","country_id":"238","created_at":"2025-04-03 00:00:00","updated_at":"2025-04-03 00:00:00"}
+]
+}
+]
